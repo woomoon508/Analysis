@@ -1,17 +1,21 @@
 # Analysis
 
+
+\- [Carrying Capicity]()   
+\- [Aha Moment]()
+\- [SHAP]()   
+\- [Valuation]()   
+\- [Active User]() 
 \- [AARRR(RARRA)]()   
 \- [Retention]()   
 \- [Acquisition]()   
-\- [Viral K]()
-
-\- [Carrying Capicity]()   
-\- [Valuation]()   
-\- [Active User]()   
+\- [Viral Growh]()   
+\- [Network Effect]()   
+\- [Amplification Factor]()
 \- [Life Time Value]()   
 \- [CAC]()   
 \- [MECE]()   
-\- [SHAP]()   
+
 
 \- [A/B 테스트]()   
 \- [지표]()   
