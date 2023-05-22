@@ -1,7 +1,7 @@
 # Analysis
 
 
-\- [Carrying Capicity]()   
+\- [Carrying Capacity]()      
 \- [Aha Moment]()
 \- [SHAP]()   
 \- [Valuation]()   
