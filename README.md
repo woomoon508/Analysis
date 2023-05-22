@@ -1,13 +1,13 @@
 # Analysis
 
 
-\- [Carrying Capacity]()      
-\- [Aha Moment]()
-\- [SHAP]()   
-\- [Valuation]()   
-\- [Active User]() 
+\- [Carrying Capacity](https://woomoon508.tistory.com/7)      
+\- [Aha Moment]()   
+\- [SHAP]()      
+\- [Valuation]()      
+\- [Active User]()    
 \- [AARRR(RARRA)]()   
-\- [Retention]()   
+\- [Retention]()      
 \- [Acquisition]()   
 \- [Viral Growh]()   
 \- [Network Effect]()   
