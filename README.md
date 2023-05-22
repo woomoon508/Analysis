@@ -11,7 +11,7 @@
 \- [Acquisition]()   
 \- [Viral Growh]()   
 \- [Network Effect]()   
-\- [Amplification Factor]()
+\- [Amplification Factor]()   
 \- [Life Time Value]()   
 \- [CAC]()   
 \- [MECE]()   
