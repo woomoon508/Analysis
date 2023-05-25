@@ -5,8 +5,8 @@
 
 
 #### ⓛ Retention      
-- [Active User (feat.MECE)]()   
-- [Carrying Capacity](https://woomoon508.tistory.com/7)    
+- [MAU를 MECE하게 쪼개고 RETENTION을 확인하자!](https://woomoon508.tistory.com/9)   
+- [Carrying Capacity, 우리 프로덕트의 적정 MAU는 얼마나 일까?](https://woomoon508.tistory.com/10)    
 
 #### ② Activation      
 - [Aha Moment]()   
