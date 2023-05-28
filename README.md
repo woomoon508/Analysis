@@ -11,7 +11,7 @@
 
 #### ② Activation     
 - [Aha Moment- 토]()   
-- [Aha-Moment를 정의했을 때, 위 가설을 통한 Impact 모델링]()      
+- [Aha-Moment를 정의했을 때, 가설을 통한 Impact 모델링]()      
 
 #### ③ Revenue
 - [Life Time Value]()   
