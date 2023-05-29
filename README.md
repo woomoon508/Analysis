@@ -1,5 +1,5 @@
-# Analysis
-> Product의 고도화를 위한 데이터 분석의 방법론들을 정리한 레포지토리입니다.
+# Data Literacy
+> 데이터 문해력 향상을 위한 방법론들을 정리한 레포지토리입니다.
 
 ## 1. RARRA
 - [이제부터 AARRR이 아니라, RARRR입니다!](https://woomoon508.tistory.com/8)    
