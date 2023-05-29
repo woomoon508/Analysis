@@ -1,4 +1,5 @@
 # Analysis
+> Product의 고도화를 위한 데이터 분석의 방법론들을 정리한 레포지토리입니다.
 
 ## 1. RARRA
 - [이제부터 AARRR이 아니라, RARRR입니다!](https://woomoon508.tistory.com/8)    
@@ -28,6 +29,7 @@
 
 ## 2. 지표, 로그설계, A/B 테스트
 
+- [Product란?]()
 - [A/B 테스트]()   
 - [지표]()   
 - [로그설계]()   
