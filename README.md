@@ -6,12 +6,12 @@
 
 
 #### ⓛ Retention      
-- [MAU를 MECE하게 쪼개고 RETENTION을 확인하자!](https://woomoon508.tistory.com/9)   
-- [Carrying Capacity, 우리 프로덕트의 적정 MAU는 얼마나 될까?](https://woomoon508.tistory.com/10)  
-- [Retention Pleteau]()        
+- [MAU를 MECE하게 쪼개고 RETENTION을 확인합시다!](https://woomoon508.tistory.com/9)   
+- [Carrying Capacity, 우리 프로덕트 MAU의 한계는 얼마일까요?](https://woomoon508.tistory.com/10)  
+- [리텐션 플래토(Retention Plateau)가 얼마나 높이 형성됐나요?](https://woomoon508.tistory.com/11)
 
 #### ② Activation     
-- [Aha Moment]()   
+- [Aha Moment가 우리 서비스에 남아 있나요?]()   
 - [SHAP VALUE]()   
 - [Aha-Moment를 정의했을 때, 가설을 통한 Impact 모델링]()      
 
