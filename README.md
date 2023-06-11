@@ -12,8 +12,7 @@
 
 #### ② Activation     
 - [Aha Moment를 경험해야 유저들이 남습니다!](https://woomoon508.tistory.com/12)   
-- [SHAP VALUE]()   
-- [Aha-Moment를 정의했을 때, 가설을 통한 Impact 모델링]()      
+- [SHAP VALUE]()        
 
 #### ③ Revenue
 - [Life Time Value]()   
