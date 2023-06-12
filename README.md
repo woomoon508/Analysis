@@ -12,7 +12,7 @@
 
 #### ② Activation     
 - [Aha Moment를 경험해야 유저들이 남습니다!](https://woomoon508.tistory.com/12)   
-- [SHAP VALUE]()        
+- [기여도가 궁금하면, SHAP Value를 사용하세요!](https://woomoon508.tistory.com/13)        
 
 #### ③ Revenue
 - [Life Time Value]()   
